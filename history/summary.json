@@ -60,19 +60,19 @@
     "url": "https://vast-adhesive-cornucopia.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/vast-adhesive-cornucopia.glitch.me.ico",
     "slug": "glitch-alist",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1590,
-    "timeDay": 412,
-    "timeWeek": 1590,
-    "timeMonth": 1590,
-    "timeYear": 1590,
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
+    "time": 1467,
+    "timeDay": 315,
+    "timeWeek": 1467,
+    "timeMonth": 1467,
+    "timeYear": 1467,
     "dailyMinutesDown": {
-      "2023-11-29": 0
+      "2023-11-29": 28
     }
   },
   {
