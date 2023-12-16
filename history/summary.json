@@ -58,18 +58,20 @@
     "url": "https://vast-adhesive-cornucopia.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/vast-adhesive-cornucopia.glitch.me.ico",
     "slug": "glitch-alist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1162,
-    "timeDay": 450,
-    "timeWeek": 229,
-    "timeMonth": 1162,
-    "timeYear": 1162,
-    "dailyMinutesDown": {}
+    "time": 1134,
+    "timeDay": 276,
+    "timeWeek": 216,
+    "timeMonth": 1134,
+    "timeYear": 1134,
+    "dailyMinutesDown": {
+      "2023-12-16": 0
+    }
   },
   {
     "name": "replit-node 的网页",
