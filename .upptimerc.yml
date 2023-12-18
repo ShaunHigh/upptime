@@ -20,7 +20,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: glitch-alist
-    url: https://vast-adhesive-cornucopia.glitch.me
+    url: https://grizzly-shell-beast.glitch.me
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
