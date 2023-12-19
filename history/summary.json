@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/notseeme.shaaunhighmore.repl.co.ico",
     "slug": "replit-alist",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.76%",
+    "uptimeDay": "93.76%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 284,
     "timeDay": 278,
     "timeWeek": 271,
     "timeMonth": 284,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-12-18": 0
+      "2023-12-19": 72,
+      "2023-12-18": 18
     }
   },
   {
@@ -67,7 +68,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 780,
-    "timeDay": 173,
+    "timeDay": 197,
     "timeWeek": 218,
     "timeMonth": 780,
     "timeYear": 780,
