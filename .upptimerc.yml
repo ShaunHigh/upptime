@@ -10,7 +10,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: replit-alist
-    url: https://notseeme.shaaunhighmore.repl.co
+    url: https://hhh.shaaunhighmore.repl.co
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
