@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "replit-alist-replit",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 223,
     "timeDay": 261,
     "timeWeek": 223,
     "timeMonth": 223,
     "timeYear": 223,
-    "dailyMinutesDown": {
-      "2023-12-21": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "replit-node",
