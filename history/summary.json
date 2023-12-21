@@ -22,19 +22,19 @@
     "url": "https://xlist.shaaun.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/xlist.shaaun.repl.co.ico",
     "slug": "replit-alist",
-    "status": "down",
-    "uptime": "17.66%",
-    "uptimeDay": "17.66%",
-    "uptimeWeek": "17.66%",
-    "uptimeMonth": "17.66%",
-    "uptimeYear": "17.66%",
-    "time": 863,
-    "timeDay": 2609,
-    "timeWeek": 1620,
-    "timeMonth": 863,
-    "timeYear": 863,
+    "status": "up",
+    "uptime": "11.81%",
+    "uptimeDay": "11.81%",
+    "uptimeWeek": "11.81%",
+    "uptimeMonth": "11.81%",
+    "uptimeYear": "11.81%",
+    "time": 855,
+    "timeDay": 2305,
+    "timeWeek": 1563,
+    "timeMonth": 855,
+    "timeYear": 855,
     "dailyMinutesDown": {
-      "2023-12-21": 168
+      "2023-12-21": 270
     }
   },
   {
