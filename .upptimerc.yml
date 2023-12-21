@@ -9,16 +9,16 @@ sites:
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
-#  - name: replit-alist
-#    url: https://xlist.shaaun.repl.co
-#    maxResponseTime: 30000
-#    expectedStatusCodes:
-#      - 200
-#  - name: replit-alist-replit
-#    url: https://replit.com/@shaaun/xlist
-#    maxResponseTime: 30000
-#    expectedStatusCodes:
-#      - 200 
+  - name: replit-alist
+    url: https://list.shaunhighmore.repl.co
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+  - name: replit-alist-replit
+    url: https://replit.com/@ShaunHighmore/list
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200 
   - name: replit-node
     url: https://jiejiejie.mmoorty.repl.co
     maxResponseTime: 30000
