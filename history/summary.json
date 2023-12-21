@@ -18,6 +18,44 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "replit-alist",
+    "url": "https://list.shaunhighmore.repl.co",
+    "icon": "https://icons.duckduckgo.com/ip3/list.shaunhighmore.repl.co.ico",
+    "slug": "replit-alist",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 569,
+    "timeDay": 333,
+    "timeWeek": 1007,
+    "timeMonth": 569,
+    "timeYear": 569,
+    "dailyMinutesDown": {
+      "2023-12-21": 102
+    }
+  },
+  {
+    "name": "replit-alist-replit",
+    "url": "https://replit.com/@ShaunHighmore/list",
+    "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
+    "slug": "replit-alist-replit",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 196,
+    "timeDay": 244,
+    "timeWeek": 196,
+    "timeMonth": 196,
+    "timeYear": 196,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "replit-node",
     "url": "https://jiejiejie.mmoorty.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/jiejiejie.mmoorty.repl.co.ico",
@@ -28,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 150,
-    "timeWeek": 192,
-    "timeMonth": 191,
-    "timeYear": 191,
+    "time": 188,
+    "timeDay": 123,
+    "timeWeek": 184,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 726,
-    "timeDay": 249,
-    "timeWeek": 227,
-    "timeMonth": 726,
-    "timeYear": 726,
+    "time": 718,
+    "timeDay": 219,
+    "timeWeek": 225,
+    "timeMonth": 718,
+    "timeYear": 718,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 150,
-    "timeWeek": 192,
-    "timeMonth": 191,
-    "timeYear": 191,
+    "time": 188,
+    "timeDay": 123,
+    "timeWeek": 184,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   }
 ]
