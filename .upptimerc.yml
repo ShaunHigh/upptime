@@ -9,11 +9,6 @@ sites:
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
-  - name: replit-alist
-    url: https://h.shaaunhighmore.repl.co
-    maxResponseTime: 30000
-    expectedStatusCodes:
-      - 200
   - name: replit-node
     url: https://jiejiejie.mmoorty.repl.co
     maxResponseTime: 30000
