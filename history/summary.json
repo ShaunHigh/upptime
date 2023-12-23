@@ -42,18 +42,20 @@
     "url": "https://grizzly-shell-beast.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/grizzly-shell-beast.glitch.me.ico",
     "slug": "glitch-alist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 758,
-    "timeDay": 143,
-    "timeWeek": 384,
-    "timeMonth": 586,
-    "timeYear": 758,
-    "dailyMinutesDown": {}
+    "time": 895,
+    "timeDay": 2982,
+    "timeWeek": 655,
+    "timeMonth": 734,
+    "timeYear": 895,
+    "dailyMinutesDown": {
+      "2023-12-23": 0
+    }
   },
   {
     "name": "replit-node 的网页",
