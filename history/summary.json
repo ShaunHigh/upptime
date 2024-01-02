@@ -22,18 +22,20 @@
     "url": "https://jiejiejie.mmoorty.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/jiejiejie.mmoorty.repl.co.ico",
     "slug": "replit-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 144,
-    "timeWeek": 160,
-    "timeMonth": 183,
-    "timeYear": 187,
-    "dailyMinutesDown": {}
+    "time": 328,
+    "timeDay": 3616,
+    "timeWeek": 1180,
+    "timeMonth": 355,
+    "timeYear": 328,
+    "dailyMinutesDown": {
+      "2024-01-02": 1
+    }
   },
   {
     "name": "glitch-alist",
@@ -112,17 +114,19 @@
     "url": "https://jiejiejie.mmoorty.repl.co/7a7e10c0-c86b-4453-b753-02a52f583640.html",
     "icon": "https://icons.duckduckgo.com/ip3/jiejiejie.mmoorty.repl.co.ico",
     "slug": "replit-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 144,
-    "timeWeek": 160,
-    "timeMonth": 183,
-    "timeYear": 187,
-    "dailyMinutesDown": {}
+    "time": 328,
+    "timeDay": 3616,
+    "timeWeek": 1180,
+    "timeMonth": 355,
+    "timeYear": 328,
+    "dailyMinutesDown": {
+      "2024-01-02": 1
+    }
   }
 ]
