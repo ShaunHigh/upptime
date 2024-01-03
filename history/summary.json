@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 256,
-    "timeWeek": 348,
-    "timeMonth": 477,
-    "timeYear": 476,
+    "time": 469,
+    "timeDay": 251,
+    "timeWeek": 323,
+    "timeMonth": 469,
+    "timeYear": 469,
     "dailyMinutesDown": {}
   },
   {
@@ -28,52 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 793,
-    "timeDay": 253,
-    "timeWeek": 205,
-    "timeMonth": 471,
-    "timeYear": 793,
+    "time": 786,
+    "timeDay": 260,
+    "timeWeek": 197,
+    "timeMonth": 467,
+    "timeYear": 786,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "xlist-huggingface",
-    "url": "https://shaunhighmore-xlist.hf.space",
-    "icon": "https://icons.duckduckgo.com/ip3/shaunhighmore-xlist.hf.space.ico",
-    "slug": "xlist-huggingface",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 288,
-    "timeDay": 288,
-    "timeWeek": 288,
-    "timeMonth": 288,
-    "timeYear": 288,
-    "dailyMinutesDown": {
-      "2024-01-03": 0
-    }
-  },
-  {
-    "name": "hf-xlist网页",
-    "url": "https://huggingface.co/spaces/shaunhighmore/xlist",
-    "icon": "https://icons.duckduckgo.com/ip3/huggingface.co.ico",
-    "slug": "hf-xlist",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 144,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
-    "dailyMinutesDown": {
-      "2024-01-03": 0
-    }
   },
   {
     "name": "replit-alist",
@@ -86,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 775,
-    "timeDay": 223,
-    "timeWeek": 223,
-    "timeMonth": 948,
-    "timeYear": 775,
+    "time": 768,
+    "timeDay": 296,
+    "timeWeek": 261,
+    "timeMonth": 934,
+    "timeYear": 768,
     "dailyMinutesDown": {}
   }
 ]
