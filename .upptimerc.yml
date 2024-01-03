@@ -19,16 +19,16 @@ sites:
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
-  - name: xlist-huggingface
-    url: https://shaunhighmore-xlist.hf.space
-    maxResponseTime: 30000
-    expectedStatusCodes:
-      - 200
-  - name: hf-xlist网页
-    url: https://huggingface.co/spaces/shaunhighmore/xlist
-    maxResponseTime: 30000
-    expectedStatusCodes:
-      - 200
+  # - name: xlist-huggingface
+  #   url: https://shaunhighmore-xlist.hf.space
+  #   maxResponseTime: 30000
+  #   expectedStatusCodes:
+  #     - 200
+  # - name: hf-xlist网页
+  #   url: https://huggingface.co/spaces/shaunhighmore/xlist
+  #   maxResponseTime: 30000
+  #   expectedStatusCodes:
+  #     - 200
   - name: replit-alist
     url: https://xlist.shaaunhighmore.repl.co
     maxResponseTime: 30000
