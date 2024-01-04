@@ -6,12 +6,12 @@ sites:
 
   - name: replit-uptime
     url: https://f7771d81-a8ff-4d67-aba6-1684fe874517-00-6kck8g67jov0.teams.replit.dev
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: replit-node
     url: https://replit.com/@ShaunHigh/jie
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: glitch-alist
@@ -19,24 +19,14 @@ sites:
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
-  - name: xlist-huggingface
-    url: https://mortysss-xlist.hf.space
-    maxResponseTime: 30000
-    expectedStatusCodes:
-      - 200
-  - name: hf-xlist网页
-    url: https://huggingface.co/spaces/mortysss/xlist
-    maxResponseTime: 30000
-    expectedStatusCodes:
-      - 200
   - name: replit-alist
     url: https://881e9465-b649-4a95-b380-5234293d5a21-00-16qfodawdcz3f.teams.replit.dev
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: replit-node 的网页
     url: https://jie.ShaunHigh.repl.co/7a7e10c0-c86b-4453-b753-02a52f583640.html
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
 
