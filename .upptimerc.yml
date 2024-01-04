@@ -9,11 +9,6 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: replit-node
-    url: https://replit.com/@ShaunHigh/jie
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
   - name: glitch-alist
     url: https://grizzly-shell-beast.glitch.me
     maxResponseTime: 30000
@@ -21,11 +16,6 @@ sites:
       - 200
   - name: replit-alist
     url: https://881e9465-b649-4a95-b380-5234293d5a21-00-16qfodawdcz3f.teams.replit.dev
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-  - name: replit-node 的网页
-    url: https://jie.ShaunHigh.repl.co/7a7e10c0-c86b-4453-b753-02a52f583640.html
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
