@@ -5,41 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/f7771d81-a8ff-4d67-aba6-1684fe874517-00-6kck8g67jov0.teams.replit.dev.ico",
     "slug": "replit-uptime",
     "status": "up",
-    "uptime": "98.47%",
-    "uptimeDay": "34.49%",
-    "uptimeWeek": "90.64%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "98.47%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 447,
-    "timeDay": 273,
-    "timeWeek": 313,
-    "timeMonth": 441,
+    "timeDay": 287,
+    "timeWeek": 319,
+    "timeMonth": 440,
     "timeYear": 447,
-    "dailyMinutesDown": {
-      "2024-01-04": 502,
-      "2024-01-03": 441
-    }
-  },
-  {
-    "name": "replit-node",
-    "url": "https://replit.com/@ShaunHigh/jie",
-    "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
-    "slug": "replit-node",
-    "status": "down",
-    "uptime": "64.36%",
-    "uptimeDay": "64.36%",
-    "uptimeWeek": "64.36%",
-    "uptimeMonth": "64.36%",
-    "uptimeYear": "64.36%",
-    "time": 619,
-    "timeDay": 637,
-    "timeWeek": 1040,
-    "timeMonth": 671,
-    "timeYear": 619,
-    "dailyMinutesDown": {
-      "2024-01-04": 326,
-      "2024-01-03": 106
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "glitch-alist",
@@ -52,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 229,
-    "timeWeek": 219,
+    "time": 756,
+    "timeDay": 263,
+    "timeWeek": 236,
     "timeMonth": 455,
-    "timeYear": 759,
+    "timeYear": 756,
     "dailyMinutesDown": {}
   },
   {
@@ -65,40 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/881e9465-b649-4a95-b380-5234293d5a21-00-16qfodawdcz3f.teams.replit.dev.ico",
     "slug": "replit-alist",
     "status": "up",
-    "uptime": "65.64%",
-    "uptimeDay": "34.49%",
-    "uptimeWeek": "65.64%",
-    "uptimeMonth": "65.64%",
-    "uptimeYear": "65.64%",
-    "time": 699,
-    "timeDay": 255,
-    "timeWeek": 247,
-    "timeMonth": 824,
-    "timeYear": 699,
-    "dailyMinutesDown": {
-      "2024-01-04": 502,
-      "2024-01-03": 441
-    }
-  },
-  {
-    "name": "replit-node 的网页",
-    "url": "https://jie.ShaunHigh.repl.co/7a7e10c0-c86b-4453-b753-02a52f583640.html",
-    "icon": "https://icons.duckduckgo.com/ip3/jie.shaunhigh.repl.co.ico",
-    "slug": "replit-node",
-    "status": "down",
-    "uptime": "64.36%",
-    "uptimeDay": "64.36%",
-    "uptimeWeek": "64.36%",
-    "uptimeMonth": "64.36%",
-    "uptimeYear": "64.36%",
-    "time": 619,
-    "timeDay": 637,
-    "timeWeek": 1040,
-    "timeMonth": 671,
-    "timeYear": 619,
-    "dailyMinutesDown": {
-      "2024-01-04": 326,
-      "2024-01-03": 106
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 695,
+    "timeDay": 275,
+    "timeWeek": 263,
+    "timeMonth": 816,
+    "timeYear": 695,
+    "dailyMinutesDown": {}
   }
 ]
