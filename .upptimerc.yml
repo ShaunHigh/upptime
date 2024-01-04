@@ -4,19 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
 
-  - name: replit-uptime
-    url: https://f7771d81-a8ff-4d67-aba6-1684fe874517-00-6kck8g67jov0.teams.replit.dev
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
   - name: glitch-alist
     url: https://grizzly-shell-beast.glitch.me
     maxResponseTime: 30000
-    expectedStatusCodes:
-      - 200
-  - name: replit-alist
-    url: https://881e9465-b649-4a95-b380-5234293d5a21-00-16qfodawdcz3f.teams.replit.dev
-    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: uptime-render
