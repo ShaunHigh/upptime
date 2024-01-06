@@ -4,18 +4,20 @@
     "url": "https://grizzly-shell-beast.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/grizzly-shell-beast.glitch.me.ico",
     "slug": "glitch-alist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 261,
-    "timeWeek": 244,
+    "time": 737,
+    "timeDay": 391,
+    "timeWeek": 259,
     "timeMonth": 457,
-    "timeYear": 739,
-    "dailyMinutesDown": {}
+    "timeYear": 737,
+    "dailyMinutesDown": {
+      "2024-01-06": 0
+    }
   },
   {
     "name": "uptime-render",
