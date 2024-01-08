@@ -13,7 +13,7 @@
     "time": 722,
     "timeDay": 302,
     "timeWeek": 266,
-    "timeMonth": 452,
+    "timeMonth": 459,
     "timeYear": 722,
     "dailyMinutesDown": {
       "2024-01-06": 16
@@ -24,7 +24,7 @@
     "url": "https://bot-pt3a.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/bot-pt3a.onrender.com.ico",
     "slug": "uptime-render",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 792,
     "timeMonth": 792,
     "timeYear": 792,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-08": 0
+    }
   }
 ]
