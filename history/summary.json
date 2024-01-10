@@ -24,19 +24,19 @@
     "url": "https://bot-pt3a.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/bot-pt3a.onrender.com.ico",
     "slug": "uptime-render",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 1479,
     "timeDay": 781,
     "timeWeek": 1479,
     "timeMonth": 1479,
     "timeYear": 1479,
     "dailyMinutesDown": {
-      "2024-01-10": 12,
+      "2024-01-10": 0,
       "2024-01-08": 36
     }
   }
