@@ -6,12 +6,12 @@
     "slug": "glitch-alist",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 1278,
-    "timeDay": 348,
+    "timeDay": 192,
     "timeWeek": 4201,
     "timeMonth": 1292,
     "timeYear": 1278,
@@ -24,17 +24,19 @@
     "url": "https://bot-pt3a.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/bot-pt3a.onrender.com.ico",
     "slug": "uptime-render",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1409,
-    "timeDay": 684,
-    "timeWeek": 1546,
-    "timeMonth": 1409,
-    "timeYear": 1409,
-    "dailyMinutesDown": {}
+    "time": 1391,
+    "timeDay": 834,
+    "timeWeek": 1516,
+    "timeMonth": 1391,
+    "timeYear": 1391,
+    "dailyMinutesDown": {
+      "2024-01-13": 0
+    }
   }
 ]
