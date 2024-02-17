@@ -42,7 +42,7 @@
     "url": "https://bot-pt3a.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/bot-pt3a.onrender.com.ico",
     "slug": "uptime-render",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.85%",
@@ -54,6 +54,7 @@
     "timeMonth": 1217,
     "timeYear": 1222,
     "dailyMinutesDown": {
+      "2024-02-17": 0,
       "2024-02-14": 71,
       "2024-02-13": 20,
       "2024-02-11": 126,
