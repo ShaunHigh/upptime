@@ -9,6 +9,11 @@ sites:
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
+  - name: koyeb-alist
+    url: https://xlist-shaunsss.koyeb.app
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
   - name: uptime-render
     url: https://bot-pt3a.onrender.com
     maxResponseTime: 10000
