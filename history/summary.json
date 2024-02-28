@@ -4,18 +4,20 @@
     "url": "https://grizzly-shell-beast.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/grizzly-shell-beast.glitch.me.ico",
     "slug": "glitch-alist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2748,
-    "timeDay": 7375,
-    "timeWeek": 5952,
-    "timeMonth": 4308,
-    "timeYear": 2748,
-    "dailyMinutesDown": {}
+    "time": 2808,
+    "timeDay": 8349,
+    "timeWeek": 6082,
+    "timeMonth": 4435,
+    "timeYear": 2808,
+    "dailyMinutesDown": {
+      "2024-02-28": 0
+    }
   },
   {
     "name": "koyeb-alist",
