@@ -22,17 +22,19 @@
     "url": "https://xlist-shaunsss.koyeb.app",
     "icon": "https://icons.duckduckgo.com/ip3/xlist-shaunsss.koyeb.app.ico",
     "slug": "koyeb-alist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 232,
-    "timeWeek": 181,
-    "timeMonth": 170,
-    "timeYear": 171,
-    "dailyMinutesDown": {}
+    "time": 175,
+    "timeDay": 273,
+    "timeWeek": 197,
+    "timeMonth": 174,
+    "timeYear": 175,
+    "dailyMinutesDown": {
+      "2024-03-28": 0
+    }
   }
 ]
