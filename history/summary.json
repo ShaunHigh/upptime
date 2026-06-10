@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ray-mortysss.koyeb.app.ico",
     "slug": "koyeb-jiedian",
     "status": "down",
-    "uptime": "4.08%",
+    "uptime": "4.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 316,
-    "timeDay": 10052,
-    "timeWeek": 3424,
-    "timeMonth": 1007,
-    "timeYear": 334,
+    "time": 315,
+    "timeDay": 40,
+    "timeWeek": 3392,
+    "timeMonth": 1004,
+    "timeYear": 333,
     "dailyMinutesDown": {
-      "2026-06-09": 235,
+      "2026-06-10": 246,
+      "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -379,8 +380,7 @@
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
-      "2025-06-11": 1440,
-      "2025-06-10": 1440
+      "2025-06-11": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/xlist-shaunsss.koyeb.app.ico",
     "slug": "koyeb-alist",
     "status": "down",
-    "uptime": "4.45%",
+    "uptime": "4.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 261,
-    "timeDay": 47,
-    "timeWeek": 77,
-    "timeMonth": 84,
-    "timeYear": 266,
+    "timeDay": 34,
+    "timeWeek": 54,
+    "timeMonth": 82,
+    "timeYear": 265,
     "dailyMinutesDown": {
-      "2026-06-09": 235,
+      "2026-06-10": 246,
+      "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -763,8 +764,7 @@
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
-      "2025-06-11": 1440,
-      "2025-06-10": 1440
+      "2025-06-11": 1440
     }
   }
 ]
